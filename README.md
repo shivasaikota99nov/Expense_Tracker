@@ -1,6 +1,6 @@
 # Expense Tracker
 
-A menu-driven Java console app for tracking personal expenses — built as a solution to the [roadmap.sh Expense Tracker project](https://roadmap.sh/projects/expense-tracker).
+A menu-driven Java console app for tracking personal expenses .
 
 ## Features
 
