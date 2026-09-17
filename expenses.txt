@@ -1,2 +1,0 @@
-2006-11-24,its my birthday,25000.0,biryani
-2006-11-24,birthday,25000.0,food
