@@ -16,7 +16,6 @@ A menu-driven Java console app for tracking personal expenses .
 - Expenses persist to a file (`expenses.txt`) between runs; descriptions with
   commas are quoted so the save file round-trips safely.
 
-Planned extensions from the roadmap.sh spec are tracked as [good first issues](https://github.com/chaudhary-lakshay/Expense-Tracker/issues) — contributions welcome.
 
 ## Project structure
 
@@ -33,7 +32,7 @@ src/Expense_Tracker/
 ## Run it
 
 ```bash
-git clone https://github.com/chaudhary-lakshay/Expense-Tracker.git
+git clone https://github.com/shivasaikota99nov/Expense_Tracker
 cd Expense-Tracker/src
 javac Expense_Tracker/*.java
 java Expense_Tracker.ExpenseTracker
